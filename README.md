@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Hi there, I'm Param Patel 👋
-🎓 Software Engineering Student at Auckland University of Technology
+Software Engineering Student at Auckland University of Technology🎓 
 
 I’m a passionate and driven software engineering student at AUT, always eager to learn and explore new technologies in the fields of software development and data management. I thrive on tackling complex problems through creative engineering and collaboration, constantly seeking opportunities to grow both technically and personally.
 
