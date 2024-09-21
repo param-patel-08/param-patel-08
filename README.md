@@ -21,7 +21,7 @@ Developer Tools: Git, VS Code, MongoDB Compass, Trello, Figma, Expo Go, Jest
 Methodologies: Agile, Scrum, Version Control with Git
 
 📫 How to reach me:
-Email: param.patel@student.aut.ac.nz
+Email: param.patel@gmail.com
 LinkedIn: linkedin.com/in/param-patel
 GitHub: github.com/param-patel
 
