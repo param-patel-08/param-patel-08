@@ -16,6 +16,6 @@ Methodologies: Agile, Scrum, Version Control with Git
 📫 How to reach me:
 Email: param.patel@gmail.com
 LinkedIn: linkedin.com/in/param-patel
-GitHub: github.com/param-patel
+
 
 I’m always excited to connect, share knowledge, and collaborate on exciting projects. Let’s get in touch!
